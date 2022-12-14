@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "username": "Momin khan afridi ",
+      "email": "momin@gmail.com",
+      "phone": "03440088753",
+      "id": 1
+    },
+    {
+      "username": "Sameen khan afridi ",
+      "email": "sameen@gmail.com",
+      "phone": "3939393939",
+      "id": 2
+    },
+    {
+      "username": "Haris khan afridi ",
+      "email": "haris@gmail.com",
+      "phone": "209348209348",
+      "id": 3
+    },
+    {
+      "username": "Umair khan afridi ",
+      "email": "umair@gmail.com",
+      "phone": "2804230948",
+      "id": 4
+    },
+    {
+      "username": "Kaif Khan afridi ",
+      "email": "kaif@gmail.com",
+      "phone": "2493093840298",
+      "id": 5
+    }
+  ]
+}
